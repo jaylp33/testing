@@ -17,11 +17,11 @@ html {
   overflow: hidden;
   cursor: pointer;
   margin-top: 20px;
+  transition: all .5s;
 }
 
 .mqBankList_header {
   margin-top: 10px;
-  height: 20%;
   align-self: center;
 }
 .mqBankList_details {
